@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scissors Made with the Odin Project.
